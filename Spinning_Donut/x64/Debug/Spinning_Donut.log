@@ -1,0 +1,17 @@
+﻿  Donut.cpp
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(17,40): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(18,44): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(19,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(19,37): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(19,49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(19,61): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(19,73): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(20,67): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(21,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(21,35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(23,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(24,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(25,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(36,18): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\Spinning_Donut\Donut.cpp(37,18): warning C4305: +=: усечение из "double" в "float"
+  Spinning_Donut.vcxproj -> C:\Users\Grozishmell\Desktop\Проекты\Spinning_Donut\x64\Debug\Spinning_Donut.exe
